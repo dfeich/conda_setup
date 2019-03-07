@@ -1,4 +1,6 @@
 name: xgboost
+channels:
+  - conda-forge
 dependencies:
   - py-xgboost-gpu
   - h5py
@@ -12,4 +14,6 @@ dependencies:
   - scikit-learn
   - more-itertools
   - iminuit
+  - uproot
+  - tqdm
 

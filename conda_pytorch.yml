@@ -1,4 +1,6 @@
 name: pytorch
+channels:
+  - conda-forge
 dependencies:
   - pytorch
   - h5py
@@ -11,3 +13,5 @@ dependencies:
   - scipy
   - scikit-learn
   - iminuit
+  - uproot
+  - tqdm

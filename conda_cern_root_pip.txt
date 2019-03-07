@@ -1,5 +1,4 @@
-root_numpy
 root_pandas
-tqdm
 bayesian-optimization
+# Note: pip package for root_numpy is called root-numpy. But moved to conda install from conda-forge
 
